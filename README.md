@@ -41,7 +41,7 @@ Neural Style Transfer works by extracting content features from one image and st
 Create virtual environment <br>
 Install dependencies
 
-### Run:
+#### Run:
 python main.py
 
 Enter the content image file name when prompted.
@@ -53,3 +53,4 @@ output_styled.jpg
 
 ## Output 
 
+<img width="1484" height="535" alt="Image" src="https://github.com/user-attachments/assets/d9881613-c5b1-4296-b634-db5c95173a88" />
